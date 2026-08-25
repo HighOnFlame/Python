@@ -1,0 +1,4 @@
+name=input("Enter your name")
+print("good afternoon", name)
+# name=input("Enter your name ")
+# print(f"Good Afternoon {name}")
