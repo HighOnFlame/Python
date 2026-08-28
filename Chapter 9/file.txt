@@ -1,0 +1,9 @@
+Monu likes to do programming in Python
+Python has many libraries
+Twinkle Twinkle Little stars
+How I wonder what you are
+New line
+Line 1: I love Python
+Line 2: Python is easy
+Line 3: I am learning C++
+Line 4: Python has many libraries
